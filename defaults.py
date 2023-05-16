@@ -1,0 +1,17 @@
+
+class Defaults:
+    NODE_WIDTH = 60
+    NODE_HEIGHT = 40
+    MAX_COMPARMENT_SIZE = 800
+    DEFAULT_COMPARMTENT_ID = 'default_compartment'
+    
+    DARK_ORANGE = 0xFFA36A00
+    WHITE = 0xFFFFFFFF
+    ORANGE = 0xFFFFA500
+    BLACK = 0xFF000000
+    
+    FONT_SIZE = 12
+    FONT_NAME = 'Arial'
+    
+    LINE_SEGMENT = 103
+    CUBIC_BEZIER = 102
